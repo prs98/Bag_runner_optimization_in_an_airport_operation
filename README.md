@@ -1,7 +1,7 @@
 # Bag runner optimization in an airport operation
 A heuristic goal programming, binary LP built using Gurobi/Python that picks best gate route from pareto solution pool to reduce flight delay due to bags delivery at finite number of departure gates by a baggage handling vehicle which tows finite number of carts.
 
-## Please view the code file for documantation and final report
+## Please view the code file for detailed report
 
 **Background**:
 The airline management often requires sophisticated and complex mathematical models to operate even the most mundane tasks that could be executed with very less thought as it results in a huge cost savings during the operation. One such operations is carried out by a Rampie. A Rampie is the driver of a baggage runner vehicle that tows variable number of carts depending on the airline departure schedule and traffic, which delivers baggage to its corresponding airline gate from the central bag repository. The bags of the passengers after being handed over at the check-in counter reach via an automated conveyor system a specified spot in the central baggage room from where they get picked by the rampie.
